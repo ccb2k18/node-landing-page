@@ -1,0 +1,24 @@
+{
+  "name": "node-landing-page",
+  "version": "1.0.0",
+  "description": "assignment for web stack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccb2k18/node-landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccb2k18/node-landing-page/issues"
+  },
+  "homepage": "https://github.com/ccb2k18/node-landing-page#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}

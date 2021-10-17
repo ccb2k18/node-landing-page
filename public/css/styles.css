@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+form {
+    text-align: center;
+    margin: 100px auto;
+}
+form > * {
+    margin: 1em;
+}
+h1 {
+    margin: 100px;
+}
